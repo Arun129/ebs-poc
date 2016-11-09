@@ -13,7 +13,7 @@
 <h1>Sample Application JSP Page</h1>
 This is the output of a JSP page that is part of the Hello, World
 application.
-New modification added.
+New modification
 </td>
 </tr>
 </table>
